@@ -1,0 +1,141 @@
+{
+	"BUILD_DIR" : "/camma/cpp/xaware/xawareHoloLens/build/xawareHoloLens_autogen",
+	"CMAKE_BINARY_DIR" : "/camma/cpp/xaware/xawareHoloLens/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/camma/cpp/xaware/xawareHoloLens/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/camma/cpp/xaware/xawareHoloLens",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/camma/cpp/xaware/xawareHoloLens/CMakeLists.txt",
+		"/camma/cpp/xaware/xawareHoloLens/build/CMakeFiles/3.20.2/CMakeSystem.cmake",
+		"/usr/share/cmake-3.20/Modules/CMakeSystemSpecificInitialize.cmake",
+		"/camma/cpp/xaware/xawareHoloLens/build/CMakeFiles/3.20.2/CMakeCCompiler.cmake",
+		"/camma/cpp/xaware/xawareHoloLens/build/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake",
+		"/usr/share/cmake-3.20/Modules/CMakeSystemSpecificInformation.cmake",
+		"/usr/share/cmake-3.20/Modules/CMakeGenericSystem.cmake",
+		"/usr/share/cmake-3.20/Modules/CMakeInitializeConfigs.cmake",
+		"/usr/share/cmake-3.20/Modules/Platform/Linux.cmake",
+		"/usr/share/cmake-3.20/Modules/Platform/UnixPaths.cmake",
+		"/usr/share/cmake-3.20/Modules/CMakeFindCodeBlocks.cmake",
+		"/usr/share/cmake-3.20/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake",
+		"/usr/share/cmake-3.20/Modules/ProcessorCount.cmake",
+		"/usr/share/cmake-3.20/Modules/CMakeCInformation.cmake",
+		"/usr/share/cmake-3.20/Modules/CMakeLanguageInformation.cmake",
+		"/usr/share/cmake-3.20/Modules/Compiler/GNU-C.cmake",
+		"/usr/share/cmake-3.20/Modules/Compiler/GNU.cmake",
+		"/usr/share/cmake-3.20/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/usr/share/cmake-3.20/Modules/Platform/Linux-GNU-C.cmake",
+		"/usr/share/cmake-3.20/Modules/Platform/Linux-GNU.cmake",
+		"/usr/share/cmake-3.20/Modules/CMakeCommonLanguageInclude.cmake",
+		"/usr/share/cmake-3.20/Modules/CMakeCXXInformation.cmake",
+		"/usr/share/cmake-3.20/Modules/CMakeLanguageInformation.cmake",
+		"/usr/share/cmake-3.20/Modules/Compiler/GNU-CXX.cmake",
+		"/usr/share/cmake-3.20/Modules/Compiler/GNU.cmake",
+		"/usr/share/cmake-3.20/Modules/Platform/Linux-GNU-CXX.cmake",
+		"/usr/share/cmake-3.20/Modules/Platform/Linux-GNU.cmake",
+		"/usr/share/cmake-3.20/Modules/CMakeCommonLanguageInclude.cmake",
+		"/usr/share/cmake-3.20/Modules/FindOpenMP.cmake",
+		"/usr/share/cmake-3.20/Modules/CMakeParseImplicitLinkInfo.cmake",
+		"/usr/share/cmake-3.20/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/share/cmake-3.20/Modules/FindPackageMessage.cmake",
+		"/usr/share/cmake-3.20/Modules/FindOpenGL.cmake",
+		"/usr/share/cmake-3.20/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/share/cmake-3.20/Modules/FindPackageMessage.cmake",
+		"/usr/share/cmake-3.20/Modules/FindQt4.cmake",
+		"/usr/share/cmake-3.20/Modules/CheckCXXSymbolExists.cmake",
+		"/usr/share/cmake-3.20/Modules/CheckSymbolExists.cmake",
+		"/usr/share/cmake-3.20/Modules/MacroAddFileDependencies.cmake",
+		"/usr/share/cmake-3.20/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/share/cmake-3.20/Modules/FindPackageMessage.cmake",
+		"/usr/share/cmake-3.20/Modules/CMakePushCheckState.cmake",
+		"/usr/share/cmake-3.20/Modules/Qt4ConfigDependentSettings.cmake",
+		"/usr/share/cmake-3.20/Modules/Qt4Macros.cmake",
+		"/usr/share/cmake-3.20/Modules/UseQt4.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/camma/cpp/xaware/xawareHoloLens",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/camma/cpp/xaware/xawareHoloLens/include/amqpconnection.h",
+			"MU",
+			"6YEA5652QU/moc_amqpconnection.cpp",
+			null
+		],
+		[
+			"/camma/cpp/xaware/xawareHoloLens/include/mainwindow.h",
+			"MU",
+			"6YEA5652QU/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"/camma/cpp/xaware/xawareHoloLens/include/servertcp.h",
+			"MU",
+			"6YEA5652QU/moc_servertcp.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/camma/cpp/xaware/xawareHoloLens/build/xawareHoloLens_autogen/include",
+	"MOC_COMPILATION_FILE" : "/camma/cpp/xaware/xawareHoloLens/build/xawareHoloLens_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_DESIGNER_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_OPENGL_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/camma/cpp/xaware/xawareHoloLens/build",
+		"/camma/cpp/xaware/xawareHoloLens",
+		"/camma/cpp/xaware/xawareHoloLens/include",
+		"/camma/libs/rabbitmq-c-master/install/include",
+		"/camma/libs/SimpleAmqpClient-master/install/include",
+		"/camma/libs/jsoncpp-master/install/include",
+		"/usr/include/qt4",
+		"/usr/include/qt4/QtOpenGL",
+		"/usr/include/qt4/QtDesigner",
+		"/usr/include/qt4/QtGui",
+		"/usr/include/qt4/QtNetwork",
+		"/usr/include/qt4/QtCore",
+		"/usr/share/qt4/mkspecs/default"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [ "/camma/cpp/xaware/xawareHoloLens/build/ui_mainwindow.h" ],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "/camma/cpp/xaware/xawareHoloLens/build/CMakeFiles/xawareHoloLens_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/x86_64-linux-gnu/qt4/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/lib/x86_64-linux-gnu/qt4/bin/uic",
+	"QT_VERSION_MAJOR" : 4,
+	"QT_VERSION_MINOR" : 8,
+	"SETTINGS_FILE" : "/camma/cpp/xaware/xawareHoloLens/build/CMakeFiles/xawareHoloLens_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/camma/cpp/xaware/xawareHoloLens/src/amqpconnection.cpp", "MU", null ],
+		[ "/camma/cpp/xaware/xawareHoloLens/src/main.cpp", "MU", null ],
+		[ "/camma/cpp/xaware/xawareHoloLens/src/mainwindow.cpp", "MU", null ],
+		[ "/camma/cpp/xaware/xawareHoloLens/src/servertcp.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [ "/camma/cpp/xaware/xawareHoloLens/build/ui_mainwindow.h" ],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

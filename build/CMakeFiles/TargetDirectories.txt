@@ -1,0 +1,4 @@
+/camma/cpp/xaware/xawareHoloLens/build/CMakeFiles/rebuild_cache.dir
+/camma/cpp/xaware/xawareHoloLens/build/CMakeFiles/xawareHoloLens.dir
+/camma/cpp/xaware/xawareHoloLens/build/CMakeFiles/edit_cache.dir
+/camma/cpp/xaware/xawareHoloLens/build/CMakeFiles/xawareHoloLens_autogen.dir

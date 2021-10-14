@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+f14be651aca87e6f29e3ae656081b88b CMakeFiles/xawareHoloLens_autogen
+fe3ee23521c1383c8ce67899d87c6653 ui_mainwindow.h
